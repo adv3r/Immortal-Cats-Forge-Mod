@@ -21,6 +21,6 @@ You live in _their_ apocalypse now.
 - Regret your choices as they stare, unyielding.  
 - No issues unless you’ve got mods meddling with animal behavior.
 
-![cat click](cat-click.gif)
+<img src="cat-click.gif" alt="cat click" width="200"/>
 
 _Written in a trance. Vibe-coded at 3AM._
