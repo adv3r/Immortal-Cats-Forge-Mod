@@ -10,7 +10,7 @@ You live in _their_ apocalypse now.
 
 **Requirements**  
 - Minecraft 1.19.2  
-- Forge 43.3.2  
+- Forge 
 - A soul brave enough to face immortal feline overlords  
 
 **Usage**  
