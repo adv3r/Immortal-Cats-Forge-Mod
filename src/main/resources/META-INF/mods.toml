@@ -1,0 +1,14 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+issueTrackerURL="https://github.com/adv3r/Immortal-Cats-Forge-Mod/issues"
+
+[[mods]]
+modId="immortalcats"
+version="1.0.0"
+displayName="Immortal Cats Mod"
+logoFile="icon.png"
+description='''
+Makes all cats (tamed and untamed) completely immune to attacks in Minecraft 1.19.2, preventing damage, red tint, hurt sounds, and knockback. Cats spawn heart particles and meow when attacked.
+'''
+authors="adveerr"
